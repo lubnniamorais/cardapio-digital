@@ -52,13 +52,13 @@ header p {
 button {
   background-color: #FED7AA;
   color: #2D2C2A;
-  width: 150px;
+  width: 80px;
   height: 50px;
   border-radius: 10px;
-  margin-left: 230px;
   text-transform: uppercase;
   font-family: 'Roboto', sans-serif;
   font-size: 14px;
+  cursor: pointer;
 }
 
 /* SECTION */
@@ -96,4 +96,9 @@ li .details {
   color: rgba(0, 0, 0, 0.6);
   font-size: 14px;
   line-height: 21px;
+}
+
+.price {
+  margin-left: 5px;
+  line-height: 10px;
 }
