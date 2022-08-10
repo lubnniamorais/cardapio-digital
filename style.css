@@ -53,12 +53,14 @@ button {
   background-color: #FED7AA;
   color: #2D2C2A;
   width: 80px;
-  height: 50px;
-  border-radius: 10px;
+  height: 30px;
+  border-radius: 5px;
   text-transform: uppercase;
   font-family: 'Roboto', sans-serif;
-  font-size: 14px;
+  font-size: 12px;
   cursor: pointer;
+  border: none;
+  margin-top: 10px;
 }
 
 /* SECTION */
